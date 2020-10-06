@@ -6,7 +6,7 @@
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\laure\compliment_app\target\test-classes;C:\Users\laure\compliment_app\target\classes;C:\Users\laure\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\laure\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\laure\Desktop\compliment_app\target\test-classes;C:\Users\laure\Desktop\compliment_app\target\classes;C:\Users\laure\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\laure\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -17,9 +17,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.4\bin"/>
-    <property name="sun.java.command" value="C:\Users\laure\AppData\Local\Temp\surefire11556924951277503792\surefirebooter13064664340899884136.jar C:\Users\laure\AppData\Local\Temp\surefire11556924951277503792 2020-10-05T09-28-11_168-jvmRun1 surefire1184377699059908087tmp surefire_05606993308476613011tmp"/>
+    <property name="sun.java.command" value="C:\Users\laure\AppData\Local\Temp\surefire15582055828439013748\surefirebooter18039002959784021352.jar C:\Users\laure\AppData\Local\Temp\surefire15582055828439013748 2020-10-05T22-10-01_898-jvmRun1 surefire2885185523496685276tmp surefire_02458936071009460117tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\laure\compliment_app\target\test-classes;C:\Users\laure\compliment_app\target\classes;C:\Users\laure\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\laure\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\laure\Desktop\compliment_app\target\test-classes;C:\Users\laure\Desktop\compliment_app\target\classes;C:\Users\laure\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\laure\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\laure"/>
     <property name="user.language" value="en"/>
@@ -27,13 +27,13 @@
     <property name="java.version.date" value="2019-07-16"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-11.0.4"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\laure\compliment_app"/>
+    <property name="basedir" value="C:\Users\laure\Desktop\compliment_app"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\laure\AppData\Local\Temp\surefire11556924951277503792\surefirebooter13064664340899884136.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\laure\AppData\Local\Temp\surefire15582055828439013748\surefirebooter18039002959784021352.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.4+10-LTS"/>
@@ -48,12 +48,12 @@
     <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\laure\AppData\Local\Temp\"/>
     <property name="java.version" value="11.0.4"/>
-    <property name="user.dir" value="C:\Users\laure\compliment_app"/>
+    <property name="user.dir" value="C:\Users\laure\Desktop\compliment_app"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.4\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files\Java\jdk-11.0.4\bin;C:\Program Files\MEGA-X;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.6.3\bin;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.4\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files\Java\jdk-11.0.4\bin;C:\Program Files\MEGA-X;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.6.3\bin;C:\Users\laure\AppData\Local\Programs\Microsoft VS Code\bin;."/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vm.version" value="11.0.4+10-LTS"/>
