@@ -10,7 +10,7 @@
 
   <name>compliment_app</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://central.sonatype.org/pages/choosing-your-coordinates.html</url>
+  <url>https://github.com/llee4/compliment</url>
   <description>A simple java program - mostly for practicing uploading to central maven repository.</description>
 
   <licenses>
@@ -67,7 +67,7 @@
   </dependencies>
 
   <build>
-
+  <pluginManagement>
         <plugins>
         <!-- clean lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
         <plugin>
@@ -178,6 +178,7 @@
   </configuration>
 </plugin>
       </plugins>
+      </pluginManagement>
  
   </build>
   
