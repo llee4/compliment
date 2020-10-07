@@ -10,7 +10,7 @@
 
   <name>compliment_app</name>
   <!-- FIXME change it to the project's website -->
-  <url>https://github.com/llee4/compliment</url>
+  <url>https://github.com/llee4/compliment_app</url>
   <description>A simple java program - mostly for practicing uploading to central maven repository.</description>
 
   <licenses>
@@ -46,9 +46,9 @@
   </developers>
 
   <scm>
-  <connection>scm:git:git://github.com/llee4/compliment.git</connection>
-  <developerConnection>scm:git:ssh://github.com/llee4/compliment.git</developerConnection>
-  <url>http://github.com/llee4/compliment</url>
+  <connection>scm:git:git://github.com/llee4/compliment_app.git</connection>
+  <developerConnection>scm:git:ssh://github.com/llee4/compliment_app.git</developerConnection>
+  <url>http://github.com/llee4/compliment_app</url>
 </scm>
 
   <properties>
